@@ -1,2 +1,6 @@
 tttttt
+<<<<<<< .merge_file_a08600
 sfsfasdfsdaf
+=======
+456465
+>>>>>>> .merge_file_a08620
